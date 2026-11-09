@@ -1,0 +1,1 @@
+The current release includes only the model implementation. The training code and data preprocessing scripts will be made available after the peer-review process is complete.
